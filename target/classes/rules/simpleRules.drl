@@ -5,6 +5,5 @@ rule "Hello World"
 	when
 	
 	then
-		System.out.println("Hello Drools");
-		System.oprint("Not Good");
+		System.out.println("Hello World");
 end
