@@ -1,0 +1,9 @@
+package com.redhat.simpleKnowledge;
+
+rule "Hello World"
+
+	when
+	
+	then
+		System.ouln("Hello Drools");
+end
