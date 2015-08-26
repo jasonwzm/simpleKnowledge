@@ -5,5 +5,5 @@ rule "Hello World"
 	when
 	
 	then
-		System.ouln("Hello Drools");
+		System.out.println("Hello Drools");
 end
